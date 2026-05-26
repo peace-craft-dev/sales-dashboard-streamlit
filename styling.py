@@ -436,23 +436,18 @@ def render_cta():
         <div class="cta-banner">
             <div class="cta-tag">¥150,000〜 · 納期 2〜4 週間</div>
             <h3>御社データで、同じ分析ダッシュボードを。</h3>
-            <p>Google Sheets / Excel / PostgreSQL / API など、データソースに合わせて項目・KPI・予測モデル・通知連携をフルカスタム実装します。</p>
-            <a href="https://corporate-lp-nextjs.vercel.app/#contact" class="cta-primary" target="_blank">
-                無料相談を申し込む →
-            </a>
-            <a href="mailto:peace.craft.dev@gmail.com?subject=PeaceCraft%20%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" class="cta-secondary">
-                ✉ メールで相談
+            <p>Google Sheets / Excel / PostgreSQL / API など、データソースに合わせて項目・KPI・予測モデル・通知連携をフルカスタム実装します。
+            ご相談はランサーズ・ココナラ・CrowdWorks のいずれかから（スパム対策のため）</p>
+            <a href="https://corporate-lp-nextjs.vercel.app/#contact" class="cta-primary" target="_blank" rel="noopener noreferrer">
+                ご相談はこちら（3 サイト経由）→
             </a>
         </div>
         <div class="pc-footer">
             © 2026 <strong>PeaceCraft</strong> — AI Native Development.
             Live demo built with Streamlit · Pandas · Plotly.
             <br>
-            このダッシュボードのコード:
-            <a href="https://github.com/peace-craft-dev/sales-dashboard-streamlit" target="_blank">GitHub</a>
-            ｜
             PeaceCraft TOP:
-            <a href="https://corporate-lp-nextjs.vercel.app/" target="_blank">corporate-lp-nextjs.vercel.app</a>
+            <a href="https://corporate-lp-nextjs.vercel.app/" target="_blank" rel="noopener noreferrer">corporate-lp-nextjs.vercel.app</a>
         </div>
         """,
         unsafe_allow_html=True,
